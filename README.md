@@ -1,3 +1,8 @@
+Website: https://katean004.github.io/code-refactor/
+
+![](https://i.gyazo.com/17b21af1d4928385e8fbc0a7cc43fa2d.jpg)
+
+
 Horiseon Website Project Description:
 
 An assignment to practice for refacting the given code into code that meet the acceptable standards for 
